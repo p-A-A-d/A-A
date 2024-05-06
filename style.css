@@ -1,0 +1,161 @@
+@charset "utf-8";
+body {
+	background-image: url(img/back.jpg);
+}
+
+/* CSS Document */
+
+#wrap {
+	width: 800px;
+	background-color: #FFF;
+	height: 580px;
+	margin: auto;
+}
+h1  {
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+h2 {
+	font-family: "HG丸ｺﾞｼｯｸM-...";
+	color: #ABB746;
+	font-weight: lighter;
+	padding-left: 150px;
+	padding-top: 15px;
+}
+h3 {
+	font-family: "游ゴシック";
+	color: #abb746;
+	padding-left: 100px;
+	font-weight: bolder;
+	padding-top: 10px;
+}
+
+dl {
+	font-family: "游ゴシック";
+	font-size: 87.5%;
+	color: #3C7544;
+	font-weight: bold;
+	padding-left: 200px;
+	margin-top: 0px;
+	margin-bottom: 44px;
+}
+
+
+#concept {
+	height: 358px;
+	width: 400px;
+	float: left;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-top: 80px;
+	background-repeat: no-repeat;
+	background-image: url(img/news_left.png);
+}
+#concept p {
+	padding-right: 30px;
+	padding-left: 40px;
+	color: #3c7544;
+	font-family: "游ゴシック";
+	font-weight: bold;
+	font-size: 87.5%;
+}
+#contact form p {
+	padding-left: 600px;
+}
+
+#news {
+	height: 358px;
+	width: 400px;
+	float: right;
+	margin-right: 0px;
+	padding-right: 0px;
+	padding-top: 80px;
+	background-repeat: no-repeat;
+	background-image: url(img/news_right.png);
+}
+#news p {
+	font-family: "游ゴシック";
+	font-size: 87.5%;
+	font-weight: bold;
+	color: #3c7544;
+	padding-right: 20px;
+	padding-left: 40px;
+}
+
+
+
+
+ul {
+	overflow: hidden;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+ul li {
+	text-align: center;
+	width: 160px;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	float: left;
+	list-style-type: none;
+}
+ul li a {
+	text-decoration: none;
+}
+.pot {
+	text-align: center;
+}
+.ice {
+	padding-left: 15px;
+	margin-top: 135px;
+	margin-bottom: 135px;
+	float: left;
+}
+
+.kaed {
+	float: left;
+	padding-left: 30px;
+	margin-top: 135px;
+	margin-bottom: 135px;
+}
+.kumo {
+	float: left;
+	padding-left: 30px;
+	margin-top: 135px;
+	margin-bottom: 135px;
+}
+.drawing {
+	float: left;
+	padding-left: 30px;
+	margin-top: 135px;
+	margin-bottom: 135px;
+}
+
+
+
+
+
+
+
+
+
+#footer {
+	text-align: center;
+	font-family: "Bookman Old ...";
+	font-size: 65%;
+	color: #ABB746;
+	height: 15px;
+	width: 800px;
+	margin-left: 0px;
+	padding-left: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	clear: both;
+	padding-top: 5px;
+}
