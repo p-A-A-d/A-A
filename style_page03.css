@@ -1,0 +1,60 @@
+@charset "utf-8";
+body {
+	background-image: url(img/back.jpg);
+}
+
+/* CSS Document */
+
+#wrap {
+	width: 800px;
+	background-color: #FFF;
+	height: 580px;
+	margin: auto;
+}
+h1  {
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+ul {
+	overflow: hidden;
+	margin: 0px;
+	padding-left: 0px;
+}
+ul li {
+	text-align: center;
+	width: 160px;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	float: left;
+	list-style-type: none;
+}
+ul li a {
+	text-decoration: none;
+}
+p a img {
+	padding-left: 73.3px;
+	padding-top: 32px;
+}
+
+
+
+
+
+
+
+
+
+#footer {
+	text-align: center;
+	font-family: "Bookman Old ...";
+	font-size: 65%;
+	margin-bottom: 0px;
+	height: 15px;
+	width: 800px;
+	color: #ABB746;
+	padding-top: 5px;
+}
